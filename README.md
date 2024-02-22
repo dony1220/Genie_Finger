@@ -89,7 +89,7 @@
 즉 유아들이 카메라를 통해 게임을 이행하고, 교육에 조금 더 흥미를 높일 수 있도록함이 저희 프로젝트의 궁극적인 목표였습니다.
 <br>
 <p align="left">
-  <img src="https://github.com/dnddl6962/flask/assets/96913965/0af57721-4025-4458-9333-cb2df39dabb8" width = "630px">
+  <img src="https://github.com/dnddl6962/Genie_Finger/assets/96913965/03bc57da-76b2-4a8c-a466-dad6e2caa91a" width = "630px">
   <br>
 </p>
 
